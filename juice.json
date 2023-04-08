@@ -1,0 +1,30 @@
+[
+    {
+        "foto": "images/jus_watermelon.jpg",
+        "nama": "juice watermelon",
+        "size": "100 Gram",
+        "harga": "20.000",
+        "link": "#"
+    },
+    {
+        "foto": "images/jus_alpukat.jpg",
+        "nama": "juice avocado",
+        "size": "100 Gram",
+        "harga": "13.000",
+        "link": "#"
+    },
+    {
+        "foto": "images/jus_banana.jpg",
+        "nama": "juice banana",
+        "size": "150 Gram",
+        "harga": "15.000",
+        "link": "#"
+    },
+    {
+        "foto": "images/jus_jeruk.jpg",
+        "nama": "juice orange",
+        "size": "150 Gram",
+        "harga": "15.000",
+        "link": "#"
+    }
+]

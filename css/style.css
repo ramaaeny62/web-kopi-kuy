@@ -51,6 +51,7 @@ p.sub {
     text-align: center;
     margin: auto;
     margin-bottom: 40px;
+    
 }
 
 img,
@@ -61,7 +62,7 @@ video {
 /* Navigasi */
 
 nav {
-    background-color: rgb(13, 36, 13);
+    background-color: rgb(52, 83, 52);
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -70,10 +71,11 @@ nav .chat {
     width: 100px;
     height: 30px;
     text-decoration: none;
-    background-color: green;
+    background-color: rgb(163, 116, 15);
     color: white;
     text-align: center;
     line-height: 1.9rem;
+    border-radius: 5px;
 }
 
 nav .baris {
@@ -158,7 +160,23 @@ header .kiri .cta img {
 .best-seller {
     background-color: rgb(232, 219, 190);
 }
-
+.subb{
+    width: 30%;
+    margin-left: 35%;
+    text-align: center;
+}
+.subb:hover {
+    background-color: #48949e;
+    border-radius: 20px;
+}
+.subb:active a{
+    background-color: #cf7777;
+    border-radius: 50px;
+    color: rgb(23, 162, 172);
+}
+.subb a{
+    color: #ee7979;
+}
 .best-seller .produk {
     width: 25%;
     padding: 10px 30px;
@@ -329,8 +347,9 @@ footer p {
        width: 100%;
        padding-right: 0;
        text-align: center;
-       color: green;
+       color: rgb(84, 87, 84);
     }
+
      
     header .kanan {
        width: 100%;

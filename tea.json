@@ -1,0 +1,23 @@
+[
+    {
+        "foto": "images/tea_regal.jpg",
+        "nama": "tea regal",
+        "size": "100 Gram",
+        "harga": "20.000",
+        "link": "#"
+    },
+    {
+        "foto": "images/tea_jahe.jpg",
+        "nama": "tea jahe",
+        "size": "100 Gram",
+        "harga": "13.000",
+        "link": "#"
+    },
+    {
+        "foto": "images/tea_kedelai.jpg",
+        "nama": "juice avocado",
+        "size": "150 Gram",
+        "harga": "15.000",
+        "link": "#"
+    }
+]
